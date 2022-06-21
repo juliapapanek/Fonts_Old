@@ -1,0 +1,24 @@
+@font-face {
+      font-family: 'Good Sans';
+      src: url('https://start.splendidspoon.com/wp-content/themes/splendid-spoon/fonts/goodsans-light-webfont.woff2') format('woff2'),
+        url('https://start.splendidspoon.com/wp-content/themes/splendid-spoon/fonts/goodsans-light-webfont.woff') format('woff');
+      font-weight: 300;
+      }
+      @font-face {
+        font-family: 'Good Sans';
+        src: url('https://start.splendidspoon.com/wp-content/themes/splendid-spoon/fonts/goodsans-regular-webfont.woff2') format('woff2'),
+          url('https://start.splendidspoon.com/wp-content/themes/splendid-spoon/fonts/goodsans-regular-webfont.woff') format('woff');
+        font-weight: 400;
+      }
+      @font-face {
+        font-family: 'Good Sans';
+        src: url('https://start.splendidspoon.com/wp-content/themes/splendid-spoon/fonts/goodsans-medium-webfont.woff2') format('woff2'),
+          url('https://start.splendidspoon.com/wp-content/themes/splendid-spoon/fonts/goodsans-medium-webfont.woff') format('woff');
+        font-weight: 500;
+      }
+      @font-face {
+        font-family: 'Good Sans';
+        src: url('https://start.splendidspoon.com/wp-content/themes/splendid-spoon/fonts/goodsans-bold-webfont.woff2') format('woff2'),
+          url('https://start.splendidspoon.com/wp-content/themes/splendid-spoon/fonts/goodsans-bold-webfont.woff') format('woff');
+        font-weight: 700;
+      }
